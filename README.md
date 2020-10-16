@@ -6,7 +6,7 @@ Feel free to contact athuor (Liu Li liuli0407@hotmail.com) when you have any pro
 
 
 
-Feel free to contact me (yzhcqupt@163.com) when you have any problems about the code(Python tensorflow1.14.0)
+Feel free to contact me (Zihan Yan yzhcqupt@163.com) when you have any problems about the code(Python tensorflow1.14.0)
 
 AcrossNetworkEmbeddingData
 
