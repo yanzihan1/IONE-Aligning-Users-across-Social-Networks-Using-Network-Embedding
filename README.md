@@ -1,5 +1,5 @@
 # IONE-Aligning-Users-across-Social-Networks-Using-Network-Embedding.
-Aligning Users across Social Networks Using Network Embedding(IJCAI)，paper author uses Java(https://github.com/ColaLL/IONE),For wider application, we have updated the python version，use tensorflow1.14.0
+Aligning Users across Social Networks Using Network Embedding(IJCAI)，paper author uses Java(https://github.com/ColaLL/IONE)    ,For wider application, we have updated the python version，use tensorflow1.14.0
 
 Source Code and anonymous twitter_foursquare data for IJCAI 2016 paper "Aligning Users Across Social Networks Using Network Embedding"
 Feel free to contact athuor (Liu Li liuli0407@hotmail.com) when you have any problems about the paper or the code(Java 8).
