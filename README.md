@@ -17,8 +17,8 @@ Feel free to contact me (Zihan Yan yzhcqupt@163.com) when you have any problems 
 
 Experimental comparison：(We have done a number of experiments and take the average value such as train ratio10%, p@1,p@5,p@10,p@15,p@20,p@30)
 
-IONE(COLA):0.014920194309507287,0.05343511450381679,0.09299097848716169,0.09541984732824428,0.12907702984038863,0.15857043719639138
-IONE(python):#0.0131852879944483,0.0527411519777932,,0.09993060374739764,11103400416377515,,0.13775156141568357,0.16655100624566274
+IONE(COLA):0.0149,0.0534,0.0929,0.09548,0.129,0.158
+IONE(python):#0.0131,0.0527,,0.0999,111,0.137,0.166
 
 Accuracy in other experiments：-0.5 ~ +0.7
 
