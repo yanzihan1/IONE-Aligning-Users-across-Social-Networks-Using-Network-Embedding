@@ -31,9 +31,9 @@ AcrossNetworkEmbeddingData
 		groundtruth.x.foldtrain.test,  the testing anchors, which are the 1-0.x of all the anchors.
 
 
-For the IONE, run the __main__.py.
+#For the IONE, run the __main__.py.
 
-You should first run the __main__.py and second run the IONE_T.py to get the Twitter and Foursquare's embedding
+#You should first run the __main__.py and second run the IONE_T.py to get the Twitter and Foursquare's embedding
 
 We will add the IONES model with anonymous data as soon as possible.
 
