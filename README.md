@@ -31,6 +31,6 @@ Experimental comparison：(We have done a number of experiments and take the ave
 
 #IONE(python):0.0131,0.0527,,0.0999,111,0.137,0.166
 
-Accuracy in other experiments：-0.5 ~ +0.7
+Accuracy in other experiments：-0.005 ~ +0.007
 
 
