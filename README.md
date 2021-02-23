@@ -29,7 +29,7 @@ Experimental comparison：(We have done a number of experiments and take the ave
 
 #IONE(JAVA):0.0149,0.0534,0.0929,0.09548,0.129,0.158
 
-#IONE(python):0.0131,0.0527,,0.0999,111,0.137,0.166
+#IONE(python):0.0131,0.0527,,0.0999,0.095,0.134,0.161
 
 Accuracy in other experiments：-0.005 ~ +0.007
 
