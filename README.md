@@ -29,7 +29,7 @@ scikit-learn==0.19.0
 ### The code  refers to the open source tool 'OpenNE' of Tsinghua University.  OpenNE: An open source toolkit for Network Embedding           https://github.com/thunlp/OpenNE  
 
 
-   
+如果感兴趣或者帮助到你 欢迎star ~    paper和code有任何问题 也欢迎讨论.
    
 
 
